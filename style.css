@@ -1050,3 +1050,18 @@ h4 {
     margin-left: auto;
     margin-right: auto;
 }
+
+.text-dark{
+    color: #394140 !important;
+}
+
+.pb-2{
+    padding-bottom: 8px;
+}
+
+@media screen and (max-width: 767px) {
+    .text-md{
+        font-size: 1.6rem;
+    }
+    
+}
